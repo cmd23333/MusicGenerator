@@ -1,5 +1,11 @@
 # MusicGenerator
-Deep Learning music generator, using Embedding =>Bidirectional GRU networks. Data were collected from networks, we choose JJ Lam's music.
+Deep Learning music generator, using Embedding =>Bidirectional GRU networks. Data were collected from networks, we choose JJ Lam's music. Chinese paper in detail.
+
+        Author:cmd23333
+        E-mail:623074850@qq.com
+        All Rights Reserved.
+        ( • ̀ω•́ )✧
+
 # 用深度学习为林俊杰写一首曲子吧~
 # ——基于Tensorflow2.0的GRU序列生成网络
 ![１](https://raw.githubusercontent.com/cmd23333/MusicGenerator/master/imgs/1.jpg)  
